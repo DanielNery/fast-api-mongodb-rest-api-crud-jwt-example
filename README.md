@@ -1,6 +1,3 @@
-# fast-api-mongodb-rest-api-crud-jwt-example
-Padrão de Projeto FastAPI para APIs RestFul com MongoDB CRUD e Autenticação com JWT
-
 # Fast API with MongoDB and JWT
 
 Crie projetos api restful versionados com o Padrão de Projeto FastAPI com MongoDB CRUD e Autenticação com JWT
