@@ -16,7 +16,8 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 + Python 3.7^
 + Git
 + MongoDB
-+ Em breve versão com Docker
++ Docker
++ Docker Compose
 ```
 
 ### 🔧 Instalação
