@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from app import schemas
 from app.core import security
 from app.core.config import settings
-from app.documents.users.user import UsersDocument, UserCreateDocument
+from app.documents.user import UsersDocument, UserCreateDocument
 
 from typing import List
 from beanie import PydanticObjectId

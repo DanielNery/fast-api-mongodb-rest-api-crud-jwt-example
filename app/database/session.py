@@ -1,7 +1,7 @@
 import beanie
 import motor
 import motor.motor_asyncio
-from app.documents.users.user import UsersDocument, UserCreateDocument
+from app.documents.user import UsersDocument, UserCreateDocument
 from app.core.config import settings
 
 async def init_db():

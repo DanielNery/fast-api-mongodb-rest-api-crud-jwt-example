@@ -1,6 +1,6 @@
 
 
-from app.documents.users.user import UserCreateDocument
+from app.documents.user import UserCreateDocument
 from app.core import security
 
 
